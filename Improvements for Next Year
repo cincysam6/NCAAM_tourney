@@ -1,0 +1,8 @@
+## List of potential improvements for the model
+
+1) Incorporate the pre-season ranks
+2) Incorporate some more advanced analytic metrics for basketball
+3) Add data from the conference tournament/Add a last 30 days variable to account for momentum
+4) Don't mess with a lot of the box stats, they don't seem all that predictive.
+5) Make sure we don't overfit on Kenpom or Seeds 
+6) Come up with some more diagnostic metrics and base rates to see how well calibrated the model is
